@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "60c96bac8d0615c8c1ca698a",
+  "owner": "wdykarp",
+  "repo": "page-c9b96e7d8ad3179769a90e15",
+  "title": "GPT代充",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c9b96e7d8ad3179769a90e15",
+      "a": "GPT代充",
+      "b": "",
+      "entity": "GPT代充",
+      "brand": "GPT代充",
+      "separator": "",
+      "path": "index.html",
+      "hash": "98acef2ee3f0edb8f83ff18a0335e3246a81b819f5fbc4a0aeea75470fadacbe",
+      "content": {
+        "keyword1": "GPT代充",
+        "keyword2": "",
+        "primary_entity": "GPT代充",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GPT代充专业VPN加速服务，提供稳定高速节点，多种流量套餐可选，官网客户端下载助力畅享全球网络。",
+          "AI_DESCRIPTION": "GPT代充专业VPN加速服务，提供稳定高速节点，多种流量套餐可选，官网客户端下载助力畅享全球网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --deepblue: #001F3F;\n            --cyan: #00BFFF;\n        }\n        * { margin:0; padding:0; box-sizing:border-box; }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            line-height: 1.7;\n            color: #333;\n            background: #f8f9fa;\n            padding-bottom: 60px;\n        }\n        main {\n            max-width: 800px;\n            margin: 0 auto;\n            background: #fff;\n            border-radius: 12px;\n            box-shadow: 0 10px 30px rgba(0, 31, 63, 0.1);\n            overflow: hidden;\n        }\n        header {\n            background: linear-gradient(135deg, var(--deepblue), var(--cyan));\n            color: #fff;\n            padding: 2rem 1.5rem;\n            text-align: center;\n        }\n        h1 {\n            font-size: 2.2rem;\n            margin-bottom: 0.5rem;\n        }\n        .tagline {\n            font-size: 1.1rem;\n            opacity: 0.95;\n        }\n        section {\n            padding: 2rem 1.5rem;\n            border-bottom: 1px solid #eee;\n        }\n        h2 {\n            color: var(--deepblue);\n            font-size: 1.6rem;\n            margin-bottom: 1rem;\n            border-left: 5px solid var(--cyan);\n            padding-left: 0.8rem;\n        }\n        ol {\n            counter-reset: step-counter;\n            list-style: none;\n        }\n        ol li {\n            position: relative;\n            padding-left: 3.5rem;\n            margin-bottom: 1.2rem;\n        }\n        ol li:before {\n            counter-increment: step-counter;\n            content: counter(step-counter);\n            position: absolute;\n            left: 0;\n            top: 0;\n            width: 2.2rem;\n            height: 2.2rem;\n            background: var(--cyan);\n            color: #fff;\n            border-radius: 50%;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            font-weight: bold;\n            font-size: 1.1rem;\n        }\n        .plan-card {\n            background: #f8f9fa;\n            border: 2px solid var(--deepblue);\n            border-radius: 8px;\n            padding: 1.5rem;\n            margin-bottom: 1.5rem;\n        }\n        .plan-card.featured {\n            border-color: var(--cyan);\n            background: linear-gradient(to right, #f0f8ff, #e6f7ff);\n        }\n        ul {\n            list-style: none;\n        }\n        ul li {\n            padding: 0.5rem 0;\n            padding-left: 1.2rem;\n            position: relative;\n        }\n        ul li:before {\n            content: \"✓\";\n            position: absolute;\n            left: 0;\n            color: var(--cyan);\n            font-weight: bold;\n        }\n        details {\n            margin-bottom: 1rem;\n            border: 1px solid #ddd;\n            border-radius: 6px;\n            overflow: hidden;\n        }\n        summary {\n            background: var(--deepblue);\n            color: #fff;\n            padding: 1rem 1.2rem;\n            font-weight: bold;\n            cursor: pointer;\n            list-style: none;\n        }\n        summary::-webkit-details-marker { display: none; }\n        p, li { margin-bottom: 0.8rem; }\n        footer {\n            background: var(--deepblue);\n            color: #fff;\n            text-align: center;\n            padding: 1.5rem;\n            font-size: 0.95rem;\n        }\n        .download-btn {\n            display: inline-block;\n            background: var(--cyan);\n            color: var(--deepblue);\n            padding: 0.8rem 2rem;\n            border-radius: 30px;\n            text-decoration: none;\n            font-weight: bold;\n            margin-top: 1rem;\n        }\n        @media (max-width: 640px) {\n            main { margin: 10px; border-radius: 8px; }\n            h1 { font-size: 1.8rem; }\n            section { padding: 1.5rem 1rem; }\n        }\n    </style>\n\n\n    <main>\n        <header>\n            <h1>GPT代充</h1>\n            <p class=\"tagline\">专业VPN加速器 | 高速节点 | 客户端下载 | 官网服务</p>\n        </header>\n\n        <section>\n            <h2>品牌简介</h2>\n            <p>GPT代充是专注于全球网络加速的知名品牌，依托先进的IPLC专线和智能节点部署，为用户提供稳定高速的VPN服务。无论个人日常浏览还是企业级应用，GPT代充都能为您带来流畅无阻的网络体验。官网客户端下载即刻开启加速之旅。</p>\n        </section>\n\n        <section>\n            <h2>使用场景</h2>\n            <p>GPT代充广泛适用于以下场景：</p>\n            <ul>\n                <li>海外流媒体平台解锁：畅享Netflix、Disney+、YouTube等国际内容</li>\n                <li>在线游戏加速：优化延迟，提升竞技游戏体验</li>\n                <li>远程办公与工作：稳定连接企业内网，保障办公顺畅</li>\n                <li>隐私保护与安全上网：加密流量，抵御网络威胁</li>\n            </ul>\n        </section>\n\n        <section>\n            <h2>配置流程</h2>\n            <ol>\n                <li>访问官网，选择适合您的套餐</li>\n                <li>完成在线支付订阅</li>\n                <li>下载官方客户端</li>\n                <li>导入订阅链接或节点信息</li>\n                <li>连接到选定节点，开始享受加速</li>\n            </ol>\n        </section>\n\n        <section>\n            <h2>套餐选择</h2>\n            <div class=\"plan-card\">\n                <h3>基础版</h3>\n                <p>¥15/月 | 按年付仅需 ¥150/年</p>\n                <ul>\n                    <li>每月 100GB 极速流量</li>\n                    <li>支持 3 台设备同时在线</li>\n                    <li>解锁基础流媒体</li>\n                    <li>普通线路节点池</li>\n                </ul>\n            </div>\n            <div class=\"plan-card featured\">\n                <h3>旗舰版</h3>\n                <p>¥35/月 | 按年付仅需 ¥350/年</p>\n                <ul>\n                    <li>每月 300GB 极速流量</li>\n                    <li>支持 5 台设备同时在线</li>\n                    <li>全节点原生流媒体解锁</li>\n                    <li>IPLC 专线游戏加速优化</li>\n                    <li>7x24 优先工单支持</li>\n                </ul>\n            </div>\n            <div class=\"plan-card\">\n                <h3>团队版</h3>\n                <p>¥85/月 | 按年付仅需 ¥850/年</p>\n                <ul>\n                    <li>每月 1000GB 极速流量</li>\n                    <li>支持 20 台设备同时在线</li>\n                    <li>VIP 专属高带宽节点</li>\n                    <li>支持企业定制路由</li>\n                    <li>专属客户经理服务</li>\n                </ul>\n            </div>\n        </section>\n\n        <section>\n            <h2>常见问题 FAQ</h2>\n            <details>\n                <summary>什么是GPT代充？</summary>\n                <p>GPT代充是一款专业的网络加速与VPN服务品牌，提供高速稳定的节点池和便捷的客户端下载，帮助用户轻松解锁全球内容并保障网络安全。</p>\n            </details>\n            <details>\n                <summary>如何订阅套餐？</summary>\n                <p>在官网选择心仪套餐，完成在线支付后即可获得激活码或订阅链接，然后下载客户端导入配置，即可连接节点享受加速服务。</p>\n            </details>\n            <details>\n                <summary>GPT代充支持哪些设备？</summary>\n                <p>基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台，同时适用于Windows、Mac、iOS、Android等主流平台。</p>\n            </details>\n            <details>\n                <summary>如何下载客户端？</summary>\n                <p>登录官网后，在客户端下载页面即可获取官方版本，一键安装使用，操作简单。</p>\n            </details>\n            <details>\n                <summary>如何解锁流媒体？</summary>\n                <p>使用GPT代充提供的节点连接后，可自动解锁Netflix、Disney+等平台，无需额外工具，体验流畅稳定。</p>\n            </details>\n            <details>\n                <summary>如何获取技术支持？</summary>\n                <p>旗舰版及以上套餐用户可享受7x24优先工单支持，快速响应您的网络问题与配置需求。</p>\n            </details>\n        </section>\n\n        <footer>\n            <p>© 2024 GPT代充 所有权利保留 | 官网客户端下载 | 友情链接</p>\n            <a href=\"#download\" class=\"download-btn\">立即下载客户端</a>\n        </footer>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "b9305a61c2f7a8b80ff59353e01ed9e1e71ca7c3ca4c37b5e220183092ba5062",
+          "seo": {
+            "title": "GPT代充 - 专业VPN加速器，高速节点，客户端下载",
+            "keywords": "GPT代充, VPN, 机场, 订阅, 客户端下载, 加速器, 网络加速",
+            "description": "GPT代充专业VPN加速服务，提供稳定高速节点，多种流量套餐可选，官网客户端下载助力畅享全球网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jszfsc.cn",
+    "host": "p-e9efeca3b2.jszfsc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "f98404acd74e5ce2a235a919ca43004ff5c23209fc43ac0994db683ac656942a",
+    "sitemap.xml": "0f17c449c7df459bcc76bb53ef8edf48d9eb3aa757f949d352e48ff8be3503df",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6dea11edcf11e6ba69e46ed004af4680c444c0b11010ff6a736eea981074cd6f",
+    "robots.txt": "562536effd02b4fbca850d2edec2ed57360917dbbb3f2bddf16da7fee7692d39",
+    "51797b5ec4f9c34476af87db3463bb47.txt": "de5d46c519327ee708bcb35675afbbd6d0d51f5cfc8ced56ab03f751f561d1a3"
+  },
+  "revision": "dc3acb414f623127639b14e445e9f638b4127d88a33eaeea2b31643f319c9b3d"
+}
